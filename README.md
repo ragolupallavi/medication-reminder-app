@@ -130,6 +130,9 @@ Deploy easily using Streamlit Community Cloud:
 <img width="1597" height="917" alt="image" src="https://github.com/user-attachments/assets/ff0895a7-9702-4279-af3b-4faf263f3ef3" />
 
 
+<img width="1606" height="915" alt="image" src="https://github.com/user-attachments/assets/86b1bfbc-c43e-4a01-8692-1c237b3e8f2f" />
+
+
 ---
 
 ## 👩‍💻 Author
